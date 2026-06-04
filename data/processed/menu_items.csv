@@ -1,0 +1,4 @@
+menu_item_id,establishment_id,item_name,normalized_name,description,category_raw,category_model,price_raw,price_usd,kosher_tags,dietary_tags,ingredients_text,source_ids
+placeholder_001,zaydes_market_canton,,,,,,,,,,,src_pending_zaydes
+placeholder_002,lifes_a_bagel_canton,,,,,,,,,,,src_pending_lifes_bagel
+placeholder_003,crescent_ridge_dairy_bar_sharon,,,,,,,,,,,src_pending_crescent_ridge
