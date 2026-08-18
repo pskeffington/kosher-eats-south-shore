@@ -102,4 +102,4 @@ LinkedIn and social posts should emphasize:
 - Do not infer certification scope from general store branding.
 - Preserve certification caveats, such as dairy, pareve, meat, Cholov Stam, Cholov Yisroel, Pas Yisroel, and label-dependent supermarket bakery certification.
 - Keep raw source text and normalized fields separate.
-- Treat scraping and API keys as private operational concerns.
+- Keep scraping methods, credentials, and API keys out of public-facing documentation and source-controlled data.
